@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lookingImage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kakao_scheme" translatable="false">kakao473829f1a5bc1b7875e44b278c229856</string>
+    <string name="kakao_share_app_key" translatable="false">473829f1a5bc1b7875e44b278c229856</string>
+</resources>
